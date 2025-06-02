@@ -69,4 +69,4 @@ CORS_ALLOWED_ORIGINS = [
 
 CORS is basically the internet's way of saying **"Stranger Danger!"** - it keeps the bad guys out while letting your friends in! 🎉
 
-![System Design Diagram](Web/Cors-architecture.png)
+![System Design Diagram](Web/Cors.png)
